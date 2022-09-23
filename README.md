@@ -1,7 +1,7 @@
 # Learning Dynamic Compact Memory Embedding for Deformable Visual Object Tracking
 
 ## Publication:
- Hongtao Yu, Pengfei Zhu, Kaihua Zhang, Yu Wang, Shuai Zhao, Lei Wang, Tianzhu Zhang, Qinghua Hu.
+ Hongtao Yu, Pengfei Zhu, Kaihua Zhang, Yu Wang, Shuai Zhao, Lei Wang, Tianzhu Zhang, Qinghua Hu. IEEE TNNLS. 
 
 
 <b>Learning Dynamic Compact Memory Embedding for Deformable Visual Object Tracking
